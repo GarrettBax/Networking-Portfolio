@@ -6,11 +6,7 @@ This will allow the file to be downloaded and then it can be opened to review th
 
 Topology
 
-
-PC1 (192.168.10.10) ──┐
-PC2 (192.168.10.11) ──┤                        ┌── [Router G0/0.10 - 192.168.10.1]
-PC3 (192.168.20.10) ──┼── [Layer 2 Switch] ────┤
-PC4 (192.168.20.11) ──┘                        └── [Router G0/0.20 - 192.168.20.1]
+<img width="619" height="339" alt="image" src="https://github.com/user-attachments/assets/5d68d69b-0b64-480b-b81c-7386e1b76e6b" />
 
 
 PC0 and PC1 are on VLAN 10. PC2 and PC3 are on VLAN 20.
