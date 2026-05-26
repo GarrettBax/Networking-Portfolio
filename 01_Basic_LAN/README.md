@@ -8,11 +8,8 @@ A simple Local Area Network demonstrating fundamental switching and IPv4 concept
 Topology
 
 
-PC1 (192.168.1.10) ──┐
-PC2 (192.168.1.11) ──┤
-PC3 (192.168.1.12) ──┼── [Layer 2 Switch]
-PC4 (192.168.1.13) ──┤
-PC5 (192.168.1.14) ──┘
+<img width="602" height="531" alt="image" src="https://github.com/user-attachments/assets/7b926df6-f812-4056-ac9b-c7d3604be313" />
+
 
 All devices are connected to the switch via straight-through copper cables.
 
