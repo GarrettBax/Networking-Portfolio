@@ -1,4 +1,4 @@
-# 06 - Spine-Leaf  Topology with LAG
+# 08 - Spine-Leaf  Topology with LAG
 
 Click into 06_Spine_Leaf_LAG and it will provide an option to view raw.
 This will allow the file to be downloaded and then it can be opened to review the packet tracer network.
